@@ -23,5 +23,5 @@ I'm an Information Security Specialist passionate about Governance, Risk & Compl
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lucasgauna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lucgauna)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&style=flat-square)](mailto:lucgauna@gmail.com)
