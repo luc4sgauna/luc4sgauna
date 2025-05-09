@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋🏼 Hi, I’m Lucas 
 
-<!--
-**thepettyprince/thepettyprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Security Specialist passionate about Governance, Risk & Compliance (GRC). I help organizations evaluate third-party security, conduct risk assessments, and align to standards like SOC 2, ISO 27001, and NIST.
 
-Here are some ideas to get you started:
+🎯 Actively building my technical toolkit—learning Git, Terraform, and AWS to enhance how I approach security and compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects & Links
+
+📁 [My GRC Portfolio](https://github.com/lucasgauna/grc-portfolio)
+
+---
+
+## 🌱 Learning In Progress
+
+- [x] Git & GitHub  
+- [ ] AWS Cloud Security Fundamentals  
+- [ ] Terraform for Compliance as Code  
+- [ ] Python for GRC Automation  
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lucasgauna)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&style=flat-square)](mailto:lucgauna@gmail.com)
