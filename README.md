@@ -8,7 +8,7 @@ I'm an Information Security Specialist passionate about Governance, Risk & Compl
 
 ## 📌 Projects
 
-📁 [My GRC Portfolio](https://github.com/lucasgauna/grc-portfolio)
+📁 [My GRC Portfolio](https://github.com/thepettyprince/grc_portfolio)
 
 ---
 
