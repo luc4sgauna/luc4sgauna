@@ -15,7 +15,7 @@ I'm an Information Security Specialist passionate about Governance, Risk & Compl
 ## 🌱 Learning In Progress
 
 - [x] Git & GitHub  
-- [ ] AWS Cloud Security Fundamentals  
+- [x] AWS Cloud Security Fundamentals  
 - [ ] Terraform for Compliance as Code  
 - [ ] Python for GRC Automation  
 
